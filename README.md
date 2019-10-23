@@ -1,2 +1,4 @@
 # FlaskTube
-youtube download web application made with flask and pytube
+Youtube download web application made with Flask and Pytube library
+
+This web application is to download single and multiple videos from Youtube Application  
